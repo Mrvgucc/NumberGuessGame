@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="butonRengi">#395179</color>
+    <color name="backGround">#f7f3e7</color>
+    <color name="suratRenk">#4F5156</color>
+    <color name="suratRenk2">#5A1F52</color>
+</resources>
